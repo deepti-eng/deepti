@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="firstname" value="deepti"/>
+  <parameter name="phone" value="5455454631"/>
+  <parameter name="email" value="deepti10@gmail.com"/>
+  <test name="parameters(failed)">
+    <classes>
+      <class name="parameterAnnotation.Parametrization">
+        <methods>
+          <include name="launchsite"/>
+          <include name="closebrowser"/>
+          <include name="enterbillinginfo" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- parameterAnnotation.Parametrization -->
+    </classes>
+  </test> <!-- parameters(failed) -->
+</suite> <!-- Failed suite [Suite] -->

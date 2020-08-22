@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17874" started-at="2020-07-15T20:40:37Z" finished-at="2020-07-15T20:40:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17874" started-at="2020-07-15T20:40:37Z" finished-at="2020-07-15T20:40:55Z">
+      <class name="gmailtestcases.failedtestcasesscreenshot">
+        <test-method status="PASS" signature="readpropertyFile()[pri:0, instance:gmailtestcases.failedtestcasesscreenshot@6093dd95]" name="readpropertyFile" is-config="true" duration-ms="21" started-at="2020-07-15T20:40:37Z" finished-at="2020-07-15T20:40:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readpropertyFile -->
+        <test-method status="PASS" signature="setup()[pri:1, instance:gmailtestcases.failedtestcasesscreenshot@6093dd95]" name="setup" duration-ms="12635" started-at="2020-07-15T20:40:37Z" finished-at="2020-07-15T20:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createAC()[pri:2, instance:gmailtestcases.failedtestcasesscreenshot@6093dd95]" name="createAC" duration-ms="617" started-at="2020-07-15T20:40:50Z" finished-at="2020-07-15T20:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAC -->
+        <test-method status="PASS" signature="names()[pri:3, instance:gmailtestcases.failedtestcasesscreenshot@6093dd95]" name="names" duration-ms="2525" started-at="2020-07-15T20:40:50Z" finished-at="2020-07-15T20:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- names -->
+        <test-method status="PASS" signature="username()[pri:4, instance:gmailtestcases.failedtestcasesscreenshot@6093dd95]" name="username" duration-ms="1202" started-at="2020-07-15T20:40:53Z" finished-at="2020-07-15T20:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:gmailtestcases.failedtestcasesscreenshot@6093dd95]" name="teardown" is-config="true" duration-ms="823" started-at="2020-07-15T20:40:54Z" finished-at="2020-07-15T20:40:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- gmailtestcases.failedtestcasesscreenshot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
